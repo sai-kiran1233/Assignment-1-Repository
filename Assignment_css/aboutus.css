@@ -1,0 +1,33 @@
+ 
+.text{
+    text-align: center;
+    border: solid;
+    background-color:rgb(221, 183, 136); 
+    position: relative;
+    top: 15px;   
+}
+.container{
+    background-image: linear-gradient(yellow , rgba(230, 71, 71, 0.888)); 
+    height:700px;
+    width:fit-content;
+    top: 0px;
+}
+.container1{
+    background-image: linear-gradient(yellow , red); 
+}
+.style1{
+    font-family: 'Times New Roman', Times, serif;    
+    border-bottom: 5px solid white;
+}
+.style2{
+    font-family: cursive;
+    border-bottom: 5px solid white;
+}
+.style3{
+    font-family: fantasy;
+    border-bottom: 5px solid white;
+}
+.style4{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 5px solid white;
+}

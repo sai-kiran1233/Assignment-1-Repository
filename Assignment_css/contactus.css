@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(228, 172, 88);
+    position: absolute;
+    height: 765px;
+    width: 1525px;
+    text-align: center;   
+}
+.button{
+    border:solid;
+    height: 30px;
+    width: 180px;
+    top: 200px;
+    left: 675px; 
+    margin: -5px;
+}
+
+ 

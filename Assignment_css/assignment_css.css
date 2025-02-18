@@ -1,0 +1,87 @@
+.background{
+    background-image: url(restbaground.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 755px;    
+     
+}
+.insiderestaurant{
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    position: absolute;
+    height:500px;
+    width:800px ;  
+    display: block;
+    left: 400px;
+    right: auto;
+    top: 15px;
+    
+}
+.button{
+    border: none;    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 0px;
+    cursor: pointer;
+}
+
+#ourmenu{
+    position: absolute;
+    display: inline-block;
+    padding:10px;
+    border: solid;
+    background-color:white;
+    text-decoration: none;
+    border-radius: 15px 15px 0 0 ;
+    cursor: pointer;
+    width: 230px;
+    text-align: center;
+    top: 475px;
+    left: 400px;
+    
+
+}
+#ourmenu:hover{
+    background-color:rgb(221, 183, 136);
+}
+#contactus{
+    position: absolute;
+    display: inline-block;
+    padding:10px ;
+    background-color:white;
+    border: solid;
+    text-decoration: none;
+    border-radius: 15px 15px 0 0;
+    cursor: pointer;
+    width: 230px;
+    text-align: center;
+    left: 680px;
+    top: 475px;
+     
+}
+#contactus:hover{
+    background-color:rgb(221, 183, 136);
+}
+#aboutus{
+    position: absolute;
+    display: inline-block;
+    padding:10px ;
+    background-color:white;
+    border: solid;
+    text-decoration: none;
+    border-radius:15px 15px 0 0 ;
+    cursor: pointer;
+    width: 230px;
+    text-align: center;
+    top:475px;
+    left: 950px;
+     
+
+}
+#aboutus:hover{
+    background-color:rgb(221, 183, 136);
+}
+ 
